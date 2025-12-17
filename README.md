@@ -34,6 +34,8 @@ cd cowin-dashboard
 npm install
 npm run dev
 
+---
+
 ## 📸 screenshots
 
 ### Dashboard View
