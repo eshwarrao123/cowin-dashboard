@@ -33,8 +33,7 @@ git clone https://github.com/eshwarrao123/cowin-dashboard.git
 cd cowin-dashboard
 npm install
 npm run dev
-
----
+```
 
 ## 📸 screenshots
 
