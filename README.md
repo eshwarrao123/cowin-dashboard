@@ -34,7 +34,7 @@ cd cowin-dashboard
 npm install
 npm run dev
 
-## 📸 Screenshots
+## 📸 screenshots
 
 ### Dashboard View
 ![CoWIN Dashboard](./screenshots/dashboard.png)
