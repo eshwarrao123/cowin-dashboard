@@ -3,7 +3,7 @@
 A responsive React dashboard that visualizes COVID-19 vaccination data in India using charts.
 
 🔗 **Live Demo:**  
-https://react-recharts-dashboard-eshwar007.netlify.app/
+https://myrechart07.ccbp.tech/
 
 ---
 
