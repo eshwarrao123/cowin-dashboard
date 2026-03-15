@@ -13,7 +13,6 @@ import './index.css'
 const VaccinationCoverage = props => {
   const {vaccinationCoverageDetails} = props
 
-  // fallback ONLY for local API empty issue
   const data =
     vaccinationCoverageDetails.length > 0
       ? vaccinationCoverageDetails
